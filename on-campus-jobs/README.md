@@ -1,8 +1,8 @@
-## Oncampus Job Tips
+## On campus Job Tips
 
-1. Best way to apply to on campus jobs is via [Handshake](https://ucr.joinhandshake.com/)
+1. Best way to apply to for on campus jobs is via [Handshake](https://ucr.joinhandshake.com/)
 
-2. **Dining job** is the easiest to get. 
+2. **Dining job** is generally easier to get. 
 
 3. **Readers/Graders job :** available in large numbers. It involves grading the assignments of the courses. Tips to follow are:
 
