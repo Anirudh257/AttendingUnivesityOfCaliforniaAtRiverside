@@ -8,6 +8,8 @@ A lot of this content is taken from amazing slides/talks by [Naman Mital](https:
 
 * [Course Reviews](/Course_Reviews)
 
+* [How to Register for courses](https://www.youtube.com/watch?v=kwZJ8vO4Yug)
+
 * [Important Documents in Handbag](/Pre_departure_Important_Documets)
 
 * [Pre-arrival-tasks](/Pre_arrival_tasks)
