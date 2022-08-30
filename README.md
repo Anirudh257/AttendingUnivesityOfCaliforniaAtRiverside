@@ -16,5 +16,7 @@ A lot of this content is taken from amazing slides/talks by [Naman Mital](https:
 
 * [Housing_Tips](/Housing_Tips)
 
+* [Flight_booking_tips](/Flight_booking_Tips)
+
 *Feel free to add a pull-request!*
 
