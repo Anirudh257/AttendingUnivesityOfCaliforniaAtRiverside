@@ -1,28 +1,30 @@
-# AttendingUniversityAtRiverside
+# Attending the University Of California At Riverside
 
-This repo is inspired from the excellent [AttendingUniversityAtBuffalo](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo) which collates important resources and advice that the author, [Snigdha Gupta](https://gist.github.com/snigi-gupta/04307be1585712b0410f91061ea16cb5) found useful at her stay in UB. To avoid duplicity, I will only add resources that are specific to UC Riverside students only. I plan to keep updating this repository with more experience.
+This repo is inspired from the excellent [AttendingUniversityAtBuffalo](https://github.com/snigi-gupta/AttendingUniversityAtBuffalo) which collates important resources and advice that the author, [Snigdha Gupta](https://gist.github.com/snigi-gupta/04307be1585712b0410f91061ea16cb5) found useful during her stay at UB. To avoid duplicity, I will only add resources that are specific to UC Riverside. This repo will receive continuous updates in the future.
 
 A lot of this content is taken from amazing slides/talks by [Naman Mital](https://www.mittalnaman.com/) and [Rugved Bhise](https://rugvedb133.github.io/)
 
 ## Contents
 
-* [Course Reviews and Advice](/Course_Reviews)
+* [Course reviews and advice](/course-reviews)
 
-* [How to Register for courses](https://www.youtube.com/watch?v=kwZJ8vO4Yug)
+* [Registering for courses at UCR](https://www.youtube.com/watch?v=kwZJ8vO4Yug)
 
-* [Important Documents in Handbag](/Pre_departure_Important_Documets)
+* [Important documents in handbag](/pre-departure-docs)
 
-* [Pre-arrival-tasks](/Pre_arrival_tasks)
+* [Pre-arrival tasks](/pre-arrival-tasks)
 
-* [Housing_Tips](/Housing_Tips)
+* [Housing](/housing)
 
-* [Flight_booking_tips](/Flight_booking_Tips)
+* [Flight booking](/flight-booking)
 
-* [Forex_Options](/Forex_Options)
+* [Forex options](/forex)
 
-* [Immigration_Questions](/Immigration_Questions)
+* [Immigration questions](/immigration-questions)
 
-* [Oncampus-job-tips](/Oncampus_job_tips)
+* [On-campus jobs](/on-campus-jobs)
 
-*Feel free to add a pull-request!*
+
+## Contribute
+If you're a current or former Student, Faculty, or a Staff member at UCR, contribute by submitting a pull request.
 
