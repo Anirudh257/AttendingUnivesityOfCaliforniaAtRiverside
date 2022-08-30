@@ -6,7 +6,7 @@ A lot of this content is taken from amazing slides/talks by [Naman Mital](https:
 
 ## Contents
 
-* [Course Reviews](/Course_Reviews)
+* [Course Reviews and Advice](/Course_Reviews)
 
 * [How to Register for courses](https://www.youtube.com/watch?v=kwZJ8vO4Yug)
 
