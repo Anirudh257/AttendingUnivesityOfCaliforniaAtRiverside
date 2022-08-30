@@ -10,7 +10,7 @@ A lot of this content is taken from amazing slides/talks by [Naman Mital](https:
 
 * [Important Documents in Handbag](/Pre_departure_Important_Documets)
 
-* [Pre-arrival-tasks](/Pre_arrival_taks)
+* [Pre-arrival-tasks](/Pre_arrival_tasks)
 
 *Feel free to add a pull-request!*
 
