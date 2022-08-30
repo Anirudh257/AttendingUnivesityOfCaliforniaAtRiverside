@@ -7,9 +7,13 @@
 
 ### Important advice from seniors
 
+* Register for the courses as soon as possible as the seats are opened on a rolling basis.
+
 * UCR follows a quarterly system instead of a usual semester-wise system, that implies that most courses are just 10 weeks long. It is important to keep 
 the course load less and take only one core/hard course per quarter.
 
 * Examples of hard courses - ML, Algorithms, DBMS, OS, Architecture
 
 * Avoid Hard courses in first sem/quarter.
+
+* A good resource to check professors is [here](https://www.ratemyprofessors.com/search/teachers?query=*&sid=1076).
