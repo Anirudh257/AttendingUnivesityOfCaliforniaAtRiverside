@@ -8,7 +8,7 @@ duplicity, I will add resources that are specific to UC Riverside students only.
 
 * [Course Reviews](/Course_Reviews)
 
-* 
+* [Important Documents in Handbag](/Pre_departure_Important_Documets)
 
 *Feel free to add a pull-request!*
 
