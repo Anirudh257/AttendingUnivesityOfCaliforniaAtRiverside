@@ -14,5 +14,7 @@ A lot of this content is taken from amazing slides/talks by [Naman Mital](https:
 
 * [Pre-arrival-tasks](/Pre_arrival_tasks)
 
+* [Housing_Tips](/Housing_Tips)
+
 *Feel free to add a pull-request!*
 
