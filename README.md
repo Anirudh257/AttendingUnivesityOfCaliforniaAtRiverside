@@ -18,5 +18,11 @@ A lot of this content is taken from amazing slides/talks by [Naman Mital](https:
 
 * [Flight_booking_tips](/Flight_booking_Tips)
 
+* [Forex_Options](/Forex_Options)
+
+* [Immigration_Questions](/Immigration_Questions)
+
+* [Oncampus-job-tips](/Oncampus_job_tips)
+
 *Feel free to add a pull-request!*
 
