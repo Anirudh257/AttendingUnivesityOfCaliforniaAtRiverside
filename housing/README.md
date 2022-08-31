@@ -4,5 +4,5 @@
 
 * **Apply for housing immediately after receiving your admission, possibly in June/July.**
 
-* If you are an international MS student, the chances of getting on-campus housing is very low. It is always better to keep other options open.
+* If you are an international MS student, the chances of getting on-campus housing are very low. It is always better to keep other options open.
 

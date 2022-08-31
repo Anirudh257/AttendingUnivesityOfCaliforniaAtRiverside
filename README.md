@@ -5,10 +5,13 @@ This repo is inspired from the excellent [AttendingUniversityAtBuffalo](https://
 A lot of this content is taken from amazing slides/talks by [Naman Mital](https://www.mittalnaman.com/) and [Rugved Bhise](https://rugvedb133.github.io/)
 
 ## Contents
+* [UCR Academic Calendar](https://registrar.ucr.edu/calendar)
 
 * [Course reviews and advice](/course-reviews)
 
 * [Registering for courses at UCR](https://www.youtube.com/watch?v=kwZJ8vO4Yug)
+
+* [Tuition & Fees at UCR](https://registrar.ucr.edu/tuition-fees)
 
 * [Important documents in handbag](/pre-departure-docs)
 
