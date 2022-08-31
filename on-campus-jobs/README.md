@@ -1,10 +1,10 @@
 ## On campus Job Tips
 
-1. Best way to apply to for on campus jobs is via [Handshake](https://ucr.joinhandshake.com/)
+1. Best way to apply for on campus jobs is via [Handshake](https://ucr.joinhandshake.com/)
 
 2. **Dining job** is generally easier to get. 
 
-3. **Readers/Graders job :** available in large numbers. It involves grading the assignments of the courses. Tips to follow are:
+3. **Readers/Graders job :** available in [large numbers](https://graduate.ucr.edu/list-projected-ta-positions). It involves grading the assignments of the courses. Tips to follow are:
 
    * Mail the professors, 15-20 days before start of quarter.
 
