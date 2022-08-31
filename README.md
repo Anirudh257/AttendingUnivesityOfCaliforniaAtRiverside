@@ -29,6 +29,7 @@ Join this amazing [discord server](https://discord.gg/G5u7jqQtmU) made by [Naman
 
 * [On-campus jobs](/on-campus-jobs)
 
+* [Internshps & Full-time opportunities](/internships-and-fulltime)
 
 ## Contribute
 If you're a current or former Student, Faculty, or a Staff member at UCR, contribute by submitting a pull request.
