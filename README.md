@@ -4,6 +4,8 @@ This repo is inspired from the excellent [AttendingUniversityAtBuffalo](https://
 
 A lot of this content is taken from amazing slides/talks by [Naman Mital](https://www.mittalnaman.com/) and [Rugved Bhise](https://rugvedb133.github.io/)
 
+Join this amazing [discord server](https://discord.gg/G5u7jqQtmU) made by [Naman Mital](https://www.mittalnaman.com/) for UCR and general MS queries.
+
 ## Contents
 * [UCR Academic Calendar](https://registrar.ucr.edu/calendar)
 
