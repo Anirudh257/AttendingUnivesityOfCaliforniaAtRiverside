@@ -5,8 +5,9 @@
 * UCR's Fall Quarter starts late in the September compared to August in most other universities.
 * Start applying to internships or full time opportunities early in the August i.e., when you're still in your home country. This may put you at the same level as students at other universities who start earlier.
 * Networking and referrals are vital in getting an interview call from your dream organization.
-* Use [LinkedIn](https://www.linkedin.com) for networking, referrals and applying.
+* Use [LinkedIn](https://www.linkedin.com) for networking, referrals and applying. Check this for advice related to optimizing [Linkedin](https://www.linkedin.com/posts/sanjay-kumar-vishwakarma_internationalstudents-incoming-msinusa-activity-6955536904423436289-yk8r/?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * Use [levels.fyi](https://www.levels.fyi) for salary information.
+* Monitor [summer2023-internships](https://github.com/pittcsc/Summer2023-Internships) for summer 2023 internships.
 * Learn the art of negotiation. Never accept an offer without a negotiation. 
 
 
