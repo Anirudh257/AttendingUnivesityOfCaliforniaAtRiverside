@@ -18,7 +18,7 @@ the course load optimal, and take only one core/hard course per quarter.
 
 * [Rate My Professors](https://www.ratemyprofessors.com/search/teachers?query=*&sid=1076) is a good resource to understand more about a professor's class.
 
-## Course-specific Whatsapp groups
+## Course-specific Social groups
 
 |Course Name | Whatsapp Group Link |
 | ------------- | -------------    |
@@ -32,4 +32,5 @@ the course load optimal, and take only one core/hard course per quarter.
 | Computer Security | https://chat.whatsapp.com/LcZ0T8LGLol9xhGKhOojRY | 
 | Advanced OS | https://chat.whatsapp.com/Gs8wphb59Ca8HcmLwZMrud | 
 | Data Mining Techniques | https://chat.whatsapp.com/KsC45m3ee5K405ymGB6uEj | 
-| Network Routing | https://chat.whatsapp.com/J4KmugRclYA0efTTiYUhuH | 
+| Network Routing | https://chat.whatsapp.com/J4KmugRclYA0efTTiYUhuH |
+| Combinatorial Optimization Algorithms | [Slack Channel](https://join.slack.com/t/cs-pvk9239/shared_invite/zt-1gdqaoft3-EDz5Btsb88183zD3V0sCDQ) |
