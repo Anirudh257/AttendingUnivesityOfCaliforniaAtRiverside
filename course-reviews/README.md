@@ -17,3 +17,19 @@ the course load optimal, and take only one core/hard course per quarter.
 * Avoid hard courses in the first quarter.
 
 * [Rate My Professors](https://www.ratemyprofessors.com/search/teachers?query=*&sid=1076) is a good resource to understand more about a professor's class.
+
+## Course-specific Whatsapp groups
+
+|Course Name | Whatsapp Group Link |
+| ------------- | -------------    |
+| Computer Architecture | https://chat.whatsapp.com/IRP77zDZ4XW3bme0OKWECQ | 
+| Spatial Computing | https://chat.whatsapp.com/LKnFhXprI4283zgBpJH2MC |
+| Big Data Management | https://chat.whatsapp.com/DLjf9Bj0G4q3Zb8uTL1ioH | 
+| Multiprocessor  | https://chat.whatsapp.com/IMXXwDDqXCWL0ldWh0BdCU |
+| Scientific Computing | https://chat.whatsapp.com/FaTEfOWOL2RCyYT6RTCORH |
+| AI | https://chat.whatsapp.com/H76MIqhpduRFzyxgIKsYRc | 
+| GPU | https://chat.whatsapp.com/CTYiKh8QtkXKDky1w7FzvD |
+| Computer Security | https://chat.whatsapp.com/LcZ0T8LGLol9xhGKhOojRY | 
+| Advanced OS | https://chat.whatsapp.com/Gs8wphb59Ca8HcmLwZMrud | 
+| Data Mining Techniques | https://chat.whatsapp.com/KsC45m3ee5K405ymGB6uEj | 
+| Network Routing | https://chat.whatsapp.com/J4KmugRclYA0efTTiYUhuH | 
