@@ -4,7 +4,7 @@
 
 2. [UCR Grad CS Course Difficulty Reviews](https://docs.google.com/spreadsheets/d/17ovp5iLEcPAA3S19mD7oKel99CmkNn0l/edit#gid=1532022067)
 
-3. [My own course experiences](course-reviews/Own_Course_Reviews.MD)
+3. [My own course experiences](Own_Course_Reviews.MD)
 
 ### Important advice from seniors
 
