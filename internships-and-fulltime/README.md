@@ -36,16 +36,16 @@
 * A good way to revise fundamentals is to do ML courses in your degree.
 * The popularity of ML has led to an explosion of roles across various domains like LLMs, Generative AI, etc. Some roles have an explicit **MS** or **PhD** requirement (mostly research-oriented roles) but many roles have relaxed requirements. **Don't apply to a role if you don't meet these basic requirements**.
 * **In my opinion, the best way to improve the chances of call-backs is to do relevant projects in the domain**. 
-* Most ML interviews comprise of:
-    * **General coding (data structures and algorithms)** similar to a normal software engineering role.
-    * **ML coding**: Code ML algorithms from scratch like Logistic Regression, Linear Regression, etc. A good list is found here: https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLC/ml-coding.md
-    * **ML system design**: It is similar to the system design round in the software engineering interview. I found these resources helpful:
-       *  https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md
-       * https://www.educative.io/courses/grokking-the-machine-learning-interview
-       * https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127
-    * **ML Breadth**: Testing of basic ML fundamentals like gradient descent, linear regression, etc. This repo lists a good set of required questions: https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/ml-fundamental.md. A good set of questions can be found here as well: https://huyenchip.com/ml-interviews-book/
-    * **ML depth**: It is more specific to your projects in the resume. For example, if you have worked primarily with NLP, expect questions on BERT, Transformer model. **Know the ins and outs of every project mentioned in your resume.**
-    * **Behavioural**: These questions gauge your personality and how you overcame challenges. Follow the **STAR** formula to answer questions as noted here: https://gist.github.com/katiestutts/7aef5063ba93616a594ac3f3764f8788. Another good resource is: https://www.interviewkickstart.com/career-advice/situational-scenario-based-interview-questions-answers.
+* Most ML interviews comprise of these 5 rounds:
+
+| Type of Round | Resources |
+|  --------  |  -------  |
+| Coding | Similar to the software-engineer role. If you are a beginner, consider: https://www.educative.io/courses/grokking-coding-interview-patterns-java. Practicing all the patterns is the key. |
+| ML coding | Code ML algorithms from scratch like Logistic Regression, Linear Regression, etc. A good list is found here: https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLC/ml-coding.md |
+| ML system design | It is similar to the system design round in the software engineering interview. Some recommended resources are: https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127 |
+|ML Breadth| Testing of basic ML fundamentals like gradient descent, linear regression, etc. Check Chapter 7 of https://huyenchip.com/ml-interviews-book/contents/7.1-basics.html.  |
+|ML depth | It is more specific to your projects in the resume. For example, if you have worked primarily with NLP, expect questions on BERT, Transformer model. **Know the ins and outs of every project mentioned in your resume.** |
+|Behavioural | These questions gauge your personality and how you overcame challenges. Follow the **STAR** formula to answer questions as noted here: https://gist.github.com/katiestutts/7aef5063ba93616a594ac3f3764f8788. Another good resource is: https://www.interviewkickstart.com/career-advice/situational-scenario-based-interview-questions-answers. |
 
 * Some companies might focus more on MLE and hence focus more on **ML coding** and **ML System design** rounds. More **research-oriented roles** will focus towards **ML depth**. **There is no hard and fast rule**.
 
@@ -55,7 +55,7 @@
 
 * [Technical Interviews - Developer-Y](https://github.com/Developer-Y/technical-interviews).
 
-* Some resources that I found useful for my ML interviews are:
+* Some other resources that I found useful for my ML interviews are:
     *  https://huyenchip.com/ml-interviews-book/ [Good book for ML fundamentals].
     * https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969 [ML System Design]
     *   https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127 [ML System Design]
@@ -66,3 +66,4 @@
     * https://github.com/stas00/ml-engineering [MLE specific tips].
     * https://madewithml.com/ [MLOPs related course].
     * https://eugeneyan.com/ [Recsys relevant advice].
+   * https://davidstutz.de/how-i-prepared-for-deepmind-and-google-ai-research-internship-interviews-in-2019/ [How to prepare for research interview]
