@@ -10,9 +10,11 @@
     * https://medium.com/womenintechnology/how-to-get-the-most-out-of-grace-hopper-celebration-2023-63291dfbda70
     * https://www.youtube.com/watch?v=sF6izpB_A0Y&pp=ygUKeXVkaSBqIGdoYw%3D%3D
 * Use [LinkedIn](https://www.linkedin.com) for networking, referrals and applying. Check this for advice related to optimizing [Linkedin](https://www.linkedin.com/posts/sanjay-kumar-vishwakarma_internationalstudents-incoming-msinusa-activity-6955536904423436289-yk8r/?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* Use Linkedin In-mail/Cold-email to write personalized emails to the hiring manager. A good email can help your case in a long way (valid for SWE and Research).
 * Use [levels.fyi](https://www.levels.fyi) for salary information.
 * Monitor [summer2023-internships](https://github.com/pittcsc/Summer2023-Internships) for summer 2023 internships.
-* Learn the art of negotiation. Never accept an offer without negotiation. 
+* Learn the art of negotiation. Never accept an offer without negotiation.
+
 
 
 ## Preparation Advice
@@ -35,7 +37,8 @@
 * Before preparing for an ML role, it is imperative to know the actual requirement. For example, does it require building pipelines/ or deploying ML models/or is it more research-focused.
 * A good way to revise fundamentals is to do ML courses in your degree.
 * The popularity of ML has led to an explosion of roles across various domains like LLMs, Generative AI, etc. Some roles have an explicit **MS** or **PhD** requirement (mostly research-oriented roles) but many roles have relaxed requirements. **Don't apply to a role if you don't meet these basic requirements**.
-* **In my opinion, the best way to improve the chances of call-backs is to do relevant projects in the domain**. 
+* **In my opinion, the best way to improve the chances of call-backs is to do relevant projects in the domain**.
+* Getting a callback in research roles is highly dependent on your research domain. **Only apply to roles where you have significant research experience**.
 * Most ML interviews comprise of these 5 rounds:
 
 | Type of Round | Resources |
