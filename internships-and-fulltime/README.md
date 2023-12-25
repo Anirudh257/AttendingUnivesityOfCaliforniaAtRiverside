@@ -10,7 +10,7 @@
     * https://medium.com/womenintechnology/how-to-get-the-most-out-of-grace-hopper-celebration-2023-63291dfbda70
     * https://www.youtube.com/watch?v=sF6izpB_A0Y&pp=ygUKeXVkaSBqIGdoYw%3D%3D
 * Use [LinkedIn](https://www.linkedin.com) for networking, referrals and applying. Check this for advice related to optimizing [Linkedin](https://www.linkedin.com/posts/sanjay-kumar-vishwakarma_internationalstudents-incoming-msinusa-activity-6955536904423436289-yk8r/?utm_source=linkedin_share&utm_medium=member_desktop_web)
-* Don't underestimate the power of an effective cold-email. Getting the attention of the hiring manager/HR via a well-written cold email would go a long way in getting a callback. I found the advice mentioned here helpful: https://www.indeed.com/career-advice/finding-a-job/cold-email-for-job. 
+* Don't underestimate the power of an effective cold-email. Getting the attention of the hiring manager/HR via a well-written cold email would go a long way in getting a callback. I found the advice mentioned here helpful: https://www.indeed.com/career-advice/finding-a-job/cold-email-for-job. A good template can be found here: https://uvasrg.github.io/prospective/ which can be modified depending on the job type.
 * Use [levels.fyi](https://www.levels.fyi) for salary information.
 * Monitor [summer2023-internships](https://github.com/pittcsc/Summer2023-Internships) for summer 2023 internships.
 * Learn the art of negotiation. Don't accept an offer without negotiation. Check https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/ for good advice.
