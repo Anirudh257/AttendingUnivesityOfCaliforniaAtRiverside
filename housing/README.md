@@ -1,6 +1,6 @@
 ## Important Tips on Housing
 
-* A good resource to find different housing options can be found [here](https://www.google.com/maps/d/edit?mid=1cRB1HEsf96FJ0g6CChpzaWHOyr8&msa=0&ll=33.978601904014226%2C-117.32304100000002&spn=0.022028%2C0.045447&z=9).
+* A good resource to find different housing options can be found [here](https://docs.google.com/spreadsheets/d/1W733qxThpY85sFvdtwqIgfTo8M7L_X367VxTHVOBUYM/edit#gid=1442012155).
 
 * **Apply for housing immediately after receiving your admission, possibly in June/July.**
 
