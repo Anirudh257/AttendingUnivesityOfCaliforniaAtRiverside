@@ -69,3 +69,4 @@
     * https://eugeneyan.com/ [Recsys relevant advice].
    * https://davidstutz.de/how-i-prepared-for-deepmind-and-google-ai-research-internship-interviews-in-2019/ [How to prepare for research interview]
    * https://www.deep-ml.com/ [ML coding questions]
+   * https://github.com/asiddhant/ai_interview_prep_notes_mar_2025 [Staff ML Engineer's Experience]
